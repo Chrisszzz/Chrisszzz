@@ -7,7 +7,7 @@ Saya seorang **Mahasiswa Sistem Informasi** di [Universitas Kristen Duta Wacana]
 Saya memiliki minat dibidang teknologi informasi salah satunya programming.<br>
 Saya mempelajari beberapa bahasa pemrograman yaitu java, javascript, c#, php, python dan beberapa framework yaitu laravel, bootstrap.<br>
 
-Jika tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/christian-hendri/) ku ya.
+Jika tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://linkedin.com/in/christian-hendri/) ku ya.
 
 ### Github Statistic
 <p align="left">
