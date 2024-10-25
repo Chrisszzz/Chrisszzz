@@ -1,8 +1,8 @@
 # Hi! 
 
-Perkenalkan nama saya **Christian Hendri**.<br>
+Perkenalkan saya **Christian**.<br>
 
-Saya seorang **Mahasiswa Sistem Informasi** di [Universitas Kristen Duta Wacana].<br>
+Saya **Mahasiswa Sistem Informasi** di [Universitas Kristen Duta Wacana].<br>
 
 Saya memiliki minat dibidang teknologi informasi salah satunya dunia programming.<br>
 Saya mempelajari beberapa bahasa pemrograman yaitu java, javascript, c#, php, python dan beberapa framework yaitu laravel, bootstrap.<br>
